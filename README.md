@@ -1,4 +1,5 @@
 # AISeminer-NJ1
+Jetson AI Specialist cource of project base
 
 ## CNN.py
 画像データセットから画像を読み込み，深層学習を行い，モデルを作成するソースコード
